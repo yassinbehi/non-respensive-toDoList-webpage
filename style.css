@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.inputerea{
+    margin: 40px;
+}
+
+.inputerea input{width: 40%;height: 30px; text-align: center;}
+.inputerea button{width: 10%; padding: 6px; cursor: pointer;}
+
+.tas{
+    display: flex;
+    justify-content: space-between;
+    border: 1px;
+    width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin: 30px;
+    background-color: rgb(91, 123, 254);
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.booln{
+    padding-right: 40px;
+    font-size: 14px;
+    color: brown;
+}
+
+.booly{
+    padding-right: 40px;
+    font-size: 14px;
+    color: rgb(60, 255, 0);
+}
+
+
+.taschek{
+    display: flex;
+    justify-content: space-between;
+    border: 1px;
+    width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin: 30px;
+    background-color: rgb(79, 183, 126);
+    border-radius: 5px;
+    font-size: 18px;
+}
